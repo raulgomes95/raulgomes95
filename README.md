@@ -1,6 +1,6 @@
-- 👋 Oi! Meu nome é Raul, tenho 26 anos e comecei estudar programação em ago/22.
-- 👀 Pretendo me conectar com outras pessoas que estejam iniciando e também encontrar minha primeira oportunidade.
-- 🌱 Atualmente tenho estou estudando Python, em seguida pretendo me especializar em Django.
+- 👋 Meu nome é Raul, tenho 27 anos, sou analista de compras.
+- 👀 Pretendo me conectar com outras pessoas que estejam aprendendo programação.
+- 🌱 Atualmente estudo Python para Data Science e desenvolvimento web.
 
 
 <!---
